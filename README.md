@@ -14,7 +14,9 @@ of it.
 [__Homebrew__](https://brew.sh) __installed__
 
 Q: Why Homebrew?
+
 A-Short version: Why not?
+
 A-Long version: It's apt-get/yum tool dedicated for MacOS
 
 ### Installation
@@ -36,7 +38,8 @@ $ ln -s BalanceInternet_phpcs/Magento /usr/local/etc/php-code-sniffer/Standards/
 ```
 
 Q: Why symlink?
-A: Homebrew
+
+A: Version Control capabilities.
 
 #### Integrate with PhpStorm
 
