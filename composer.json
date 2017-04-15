@@ -1,0 +1,14 @@
+{
+    "name": "balanceinternet/coding-standard",
+    "description": "A set of PHP_CodeSniffer rules and sniffs specified for Balance Internet projects.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toan Nguyen",
+            "email": "toan.nguyen@balanceinternet.com.au"
+        }
+    ],
+    "require": {
+	"php": ">=5.4.0"
+    }
+}

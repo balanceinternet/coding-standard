@@ -1,0 +1,20 @@
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# IDE configurations #
+##############
+/.buildpath
+/.project
+/.setting
+/.idea
+/.sass-cache
+/*.sublime-*
+/sftp-config.json
+
+# Magallanes #
+##############
+/.mage/*.lock
